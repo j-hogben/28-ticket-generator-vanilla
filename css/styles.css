@@ -30,7 +30,7 @@
   --fs-preset-3: var(--fs-400);
   --fs-preset-4: var(--fs-300);
   --fs-preset-5: var(--fs-300);
-  --fs-preset-6: var(--fs-150);
+  --fs-preset-6: var(--fs-200);
   --fs-preset-7: var(--fs-100);
 
   --fw-regular: 400;
@@ -79,7 +79,6 @@
     --fs-preset-2: var(--fs-700);
     --fs-preset-3: var(--fs-600);
     --fs-preset-4: var(--fs-500);
-    --fs-preset-6: var(--fs-200);
   }
 }
 
@@ -215,6 +214,7 @@ form {
 }
 
 .cta-submit {
+  color: var(--clr-neut-900);
   background-color: var(--clr-orange-500);
   border: none;
 }
