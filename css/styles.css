@@ -161,7 +161,7 @@ body {
 
 /* ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ PAGE LAYOUT ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ */
 body {
-  background-image: url(../assets/images/background-mobile.png);
+  background-image: url(/assets/images/background-mobile.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
